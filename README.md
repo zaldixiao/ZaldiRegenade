@@ -1,30 +1,53 @@
-<!-- Profil GitHub: ZaldiRegenade -->
-<h1 align="center">🌌 ZaldiRegenade 🌌</h1>
 <p align="center">
-  <em>“Berjalan di antara awan, mengejar keabadian — Donghua adalah jalanku.”</em>
+  <!-- Banner Donghua (tempel link gambar nanti) -->
+  <img src="BANNER_LINK_HERE" alt="ZaldiRegenade Banner"/>
+</p>
+
+<h1 align="center">🌌 ZaldiRegenade</h1>
+<p align="center">
+  <em>Mencari keabadian melalui baris kode dan cahaya kosmik.</em>  
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23B58CFF&size=22&center=true&vCenter=true&width=500&lines=Developer+Cultivator;Donghua+Themed+Projects;Coding+is+Spiritual+Energy;Chasing+Perfection+Through+Creation">
 </p>
 
 ---
 
-### 🀄 Tentang Aku
-🌠 Aku **Zaldi**, penggemar dunia **Donghua** dan pengembang muda yang suka bereksperimen dengan desain & kode.  
-🌸 Aku percaya setiap baris kode bisa jadi seni — seperti kisah kultivasi menuju kesempurnaan.
+## 👤 Tentang Aku
 
-- 🔭 Fokus saat ini: **Donghua Theme Project**
-- 💻 Bahasa favorit: **HTML, CSS, JavaScript, dan Python**
-- 🎨 Minat: desain UI bergaya neon klasik Tiongkok
-- 🌐 Website: [zaldiRegenade.github.io](https://zaldiRegenade.github.io)
-- 📫 Kontak: **xiaozall2007@gmail.com**
+Halo, aku **Zaldi** — seorang penggemar estetika **Donghua**, pecinta cerita kultivasi, dan pengembang yang percaya bahwa:
+
+> **Setiap baris kode adalah teknik kultivasi.  
+Setiap proyek adalah langkah menuju keabadian.**
+
+✨ Fokus:  
+- UI bertema kultivasi  
+- Aura & efek spiritual web  
+- Template GitHub aestetik Donghua  
+
+📌 Info Singkat  
+| Info | Detail |
+|------|--------|
+| Bahasa | HTML, CSS, JS, Python |
+| Style | Cosmic Donghua, Xianxia Aura, Neon Spirit |
+| Website | https://zaldiregenade.github.io |
+| Email | **xiaozall2007@gmail.com** |
 
 ---
 
-### ⚔️ Project Karya
-| Nama | Deskripsi | Status |
-|------|------------|--------|
-| 🌸 **Donghua-Theme** | Template GitHub Pages bertema Donghua | ✅ Aktif |
-| ⚙️ **Cultivator-UI** | Framework ringan untuk tampilan estetik | 🔧 Dalam pengembangan |
-| 🔮 **ImmortalScript** | Eksperimen efek animasi bertema energi spiritual | 🌀 Riset |
+## ⚔️ Proyek Karya
+
+| Proyek | Deskripsi | Status |
+|--------|----------|--------|
+| 🌠 **Donghua-Theme** | Template GitHub Pages tema Donghua | ✅ Aktif |
+| 🌿 **Cultivator-UI** | Framework UI estetik & ringan | 🛠 Progress |
+| 🔮 **ImmortalScript** | Script animasi aura & spiritual qi | 🧪 Riset |
+
+> Tujuan: membangun **ecosystem web bertema kultivasi** ✨⚡
 
 ---
 
-### 🧙‍♂️ Skill & Tools
+## 🛠 Skill & Tools
+
+**Bahasa & Framework**
